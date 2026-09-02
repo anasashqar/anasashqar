@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Anas Alashqar 👋
 
-<!--
-**anasashqar/anasashqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Systems Engineering Student at Al-Azhar University - Gaza**  
+Passionate about software engineering, building scalable applications, and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** TypeScript, JavaScript, Python, Dart, GDScript, C/C++
+- **Frontend / Mobile:** Flutter, React / Modern Web Development, HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, Linux, Node.js
+
+---
+
+### 🚀 What I'm Currently Working On
+- 🔭 Developing practical tech solutions and web apps.
+- 🌱 Exploring modern system architecture and backend engineering.
+- 💬 Ask me about: Frontend/Mobile dev, problem solving, and building utilities.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/anasashqar06](https://www.linkedin.com/in/anasashqar06/)
+- **Instagram:** [@anas.alashqar06](https://www.instagram.com/anas.alashqar06/)
