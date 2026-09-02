@@ -1,57 +1,62 @@
 <div align="center">
 
-# Hi there, I'm Anas Alashqar 👋
-### 💻 Computer Systems Engineering Student | Full-Stack & Mobile Developer
-📍 Gaza, Palestine
+# Anas Alashqar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasashqar06/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/anasashqar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anas.alashqar06/)
+<a href="https://github.com/anasashqar">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+Student;Full-Stack+%26+Mobile+Developer;AI-Driven+Solutions+%26+System+Architecture" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/anasashqar06">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" height="26" />
+</a>
+&nbsp;
+<a href="https://github.com/anasashqar">
+  <img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=google-chrome&logoColor=white" height="26" />
+</a>
+&nbsp;
+<a href="https://instagram.com/anas.alashqar06">
+  <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" height="26" />
+</a>
+
+<br/><br/>
 
 </div>
 
----
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="58%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>About</h3>
+      <p>
+        Engineering student at <b>Al-Azhar University &ndash; Gaza</b>, building modern full-stack platforms, cross-platform mobile apps, and integrating intelligent agent workflows.
+      </p>
+      <p>
+        Currently architecting <b><a href="https://github.com/anasashqar/-evidens-clinic-bot">Evidens Clinic AI</a></b> &mdash; an automated healthcare assistant for clinical scheduling and workflow management.
+      </p>
+    </td>
+    <td width="42%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>Technologies</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,python,react,flutter&theme=dark" /><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,linux&theme=dark" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🚀 About Me
-- 🎓 Studying **Computer Systems Engineering** at **Al-Azhar University - Gaza**.
-- 🛠️ Passionate about building robust full-stack applications, intelligent AI-driven systems, and cross-platform mobile apps.
-- 🔭 Currently developing **[Evidens Clinic AI](https://github.com/anasashqar/-evidens-clinic-bot)** — an automated healthcare management & booking assistant.
-- 💬 Ask me about **TypeScript, React, Flutter, Python**, and system design.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Databases, Cloud & Dev Tools:**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Activity & Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasashqar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasashqar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasashqar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasashqar&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasashqar&theme=tokyonight&hide_border=true" width="95%" />
+</p>
+
 </div>
