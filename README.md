@@ -3,13 +3,13 @@
 # Anas Alashqar
 
 <a href="https://github.com/anasashqar">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+Student;Full-Stack+%26+Mobile+Developer;AI-Driven+Solutions+%26+System+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=15&duration=3000&pause=1500&color=64748B&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+Student;Full-Stack+%26+Mobile+Developer;AI-Driven+Solutions+%26+System+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://linkedin.com/in/anasashqar06">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" />
 </a>
 &nbsp;
 <a href="https://github.com/anasashqar">
@@ -17,32 +17,33 @@
 </a>
 &nbsp;
 <a href="https://instagram.com/anas.alashqar06">
-  <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26" />
 </a>
-
-<br/><br/>
 
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="58%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>About</h3>
-      <p>
-        Engineering student at <b>Al-Azhar University &ndash; Gaza</b>, building modern full-stack platforms, cross-platform mobile apps, and integrating intelligent agent workflows.
-      </p>
-      <p>
-        Currently architecting <b><a href="https://github.com/anasashqar/-evidens-clinic-bot">Evidens Clinic AI</a></b> &mdash; an automated healthcare assistant for clinical scheduling and workflow management.
-      </p>
-    </td>
-    <td width="42%" valign="top" style="border: none; padding-left: 20px;">
-      <h3>Technologies</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=ts,python,react,flutter&theme=dark" /><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,linux&theme=dark" />
-      </p>
-    </td>
-  </tr>
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="58%" valign="top">
+
+### About
+
+Engineering student at **Al-Azhar University – Gaza**, building modern full-stack platforms, cross-platform mobile apps, and integrating intelligent agent workflows.
+
+Currently architecting **[Evidens Clinic AI](https://github.com/anasashqar/-evidens-clinic-bot)** — an automated healthcare assistant for clinical scheduling and workflow management.
+
+</td>
+<td width="42%" valign="top">
+
+### Technologies
+
+<img src="https://skillicons.dev/icons?i=ts,python,react,flutter&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,linux&theme=dark" />
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -51,12 +52,14 @@
 
 ### GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasashqar&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
+<img src="https://raw.githubusercontent.com/anasashqar/anasashqar/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasashqar&theme=tokyonight&hide_border=true" width="95%" />
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasashqar&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="95%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
