@@ -48,18 +48,12 @@ Currently architecting **[Evidens Clinic AI](https://github.com/anasashqar/-evid
 
 <br/>
 
-<div align="center">
-
-### GitHub Analytics
-
-<img src="https://raw.githubusercontent.com/anasashqar/anasashqar/output/github-contribution-grid-snake-dark.svg" width="95%" />
+---
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasashqar&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="95%" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anasashqar/anasashqar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anasashqar/anasashqar/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anasashqar/anasashqar/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
